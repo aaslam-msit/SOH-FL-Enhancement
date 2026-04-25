@@ -1,4 +1,4 @@
-\# SOH-FL Enhancement
+\# SOH-FL Enhancement 🚀
 
 
 
@@ -12,7 +12,7 @@ This project improves the SOH-FL framework for intrusion detection in IoT using:
 
 
 
-\## Results
+\## 📊 Results
 
 \- Accuracy improved from 92.38% → 94.12%
 
@@ -22,9 +22,9 @@ This project improves the SOH-FL framework for intrusion detection in IoT using:
 
 
 
-\## Structure
+\## 📂 Structure
 
-\- paper/ → research paper (PDF)
+\- paper/ → research paper (LaTeX + PDF)
 
 \- figures/ → plots
 
@@ -34,7 +34,7 @@ This project improves the SOH-FL framework for intrusion detection in IoT using:
 
 
 
-\## Visual Results
+\## 📈 Visual Results
 
 
 
@@ -46,13 +46,13 @@ This project improves the SOH-FL framework for intrusion detection in IoT using:
 
 
 
-\## Dataset
+\## 🧪 Dataset
 
 CICIDS2017 (PortScan subset)
 
 
 
-\## Setup
+\## ⚙️ Setup
 
 
 
