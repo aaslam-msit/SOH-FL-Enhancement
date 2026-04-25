@@ -1,0 +1,4 @@
+Local Accuracy: 78.42
+FedAvg Accuracy: 84.15
+SOH-FL Accuracy: 92.38
+Proposed Accuracy: 94.12
